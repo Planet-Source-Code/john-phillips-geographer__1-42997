@@ -1,0 +1,2 @@
+This Latitude / Longitude mapping system can be useful for many applications. It isn't complete yet, I still have to add the IP/Host name location resolution, I will upload the application again when I get that finished. if you have any problems with this application please let me know, I would like to know about them. You can email me at vbjack@nyc.rr.com. Also please vote if you like this code.
+
